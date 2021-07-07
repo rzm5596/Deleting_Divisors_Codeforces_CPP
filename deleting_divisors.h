@@ -1,0 +1,1 @@
+int deleting_divisors_test(int test_number, std::vector<int> &tested_paths);
