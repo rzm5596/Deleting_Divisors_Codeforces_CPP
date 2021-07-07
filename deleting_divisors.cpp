@@ -1,5 +1,5 @@
 /**
- * The deleting divisors problem from Code Forces
+ * The deleting divisors problem from Codeforces
  * If both players play optimally, who will win?
  * Taking turns, each player must choose a factor of the given number that is not 1 or itself
  * That number is then sutracted from the given number, and that is the new number
